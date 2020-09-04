@@ -42,5 +42,5 @@ A simple Chaos Game with each vertex having a different percetage to target poin
 
 -------------
 
-[home](greggelong.github.io)
+[home](https://greggelong.github.io)
 
