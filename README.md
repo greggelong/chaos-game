@@ -3,6 +3,8 @@ The Chaos Game in processing 3 and p5js
 
 ![sierpinski1.png](sierpinski1.png)
 
+[simple Chaos Game](https://editor.p5js.org/greggelong/sketches/rJbJBnv2C)
+
 The last couple days I have been doing some coding and math review in the yard with the dogs. While reading 'Fractals: a graphic guide', I came across the Chaos game. I had never tried to code it and thought it would be a nice distraction.  I think it is refreshing to do some math and code stuff in the sun, on paper around the dogs. It is a nice change from a dark room while everyone else is sleeping. I coded on my android in processing3 using APDE. Later at home I refactored it to p5.js on a laptop. I also consulted some youtube videos #thecodingtrain and #numberphile. #creativecoding #fractal
 
 Instructions from [Wikipedia](https://en.wikipedia.org/wiki/Chaos_game):
