@@ -22,6 +22,7 @@ Instructions from [Wikipedia](https://en.wikipedia.org/wiki/Chaos_game):
 What I like about the Chaos Game is that it can work as an allegory for continuity of character.  The world has tilted to become more random.  but if I my actions have some sort of continuity and consistency, a stable pattern will emerge.  Here are a few stills from processing3 and p5js exploring the Chaos game with varying  the number of vertex points and percentage of point between the target point and vertex point. I have also constrained it not to pick the same vertex point twice in a row for the top image.  In the pics top number is number of  vertex points and bottom number is percentage. The points are plotted in polar coordinates to keep vertext points at a constant distance.
 
 [Explore constrained game here](https://editor.p5js.org/greggelong/present/D3doyDvYm)
+
 [Explore unconstrained game here](https://editor.p5js.org/greggelong/present/j2NaScSM2)
 
 ----------
