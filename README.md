@@ -14,11 +14,15 @@ Instructions from [Wikipedia](https://en.wikipedia.org/wiki/Chaos_game):
 ----------
 
 
-![fivePointsColor.png](fivePointsColor.png)
+![fivePointsColor.png](fivePointsColor.png)Five points, not the same vertex twice in a row.
 
-What I like about the Chaos Game is that it can work as an allegory for continuity of character.  The world has tilted to become more random.  but if I my actions have some sort of continuity and consistency, a stable pattern will emerge.  Here are a few stills from processing3 and p5js exploring the Chaos game with varying  the number of vertex points and percentage of point between the target point and vertex point. I have also constrained it not to pick the same vertex point twice in a row for some photos.  In the pics top number is number of  vertex points and bottom number is percentage. The points are plotted in polar coordinates to keep vertext points at a constant distance.
+![anyVertex.png](anyVertex.png)Five points any vertex
 
-[Explore it here](https://editor.p5js.org/greggelong/present/D3doyDvYm)
+
+What I like about the Chaos Game is that it can work as an allegory for continuity of character.  The world has tilted to become more random.  but if I my actions have some sort of continuity and consistency, a stable pattern will emerge.  Here are a few stills from processing3 and p5js exploring the Chaos game with varying  the number of vertex points and percentage of point between the target point and vertex point. I have also constrained it not to pick the same vertex point twice in a row for the top image.  In the pics top number is number of  vertex points and bottom number is percentage. The points are plotted in polar coordinates to keep vertext points at a constant distance.
+
+[Explore constrained game here](https://editor.p5js.org/greggelong/present/D3doyDvYm)
+[Explore unconstrained game here](https://editor.p5js.org/greggelong/present/j2NaScSM2)
 
 ----------
 
