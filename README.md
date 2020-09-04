@@ -8,3 +8,9 @@ The last couple days I have been doing some coding and math review in the yard w
 Instructions from [Wikipedia](https://en.wikipedia.org/wiki/Chaos_game):
 
 >The fractal is created by iteratively creating a sequence of points, starting with the initial random point, in which each point in the sequence is a given fraction of the distance between the previous point and one of the vertices of the polygon; the vertex is chosen at random in each iteration. Repeating this iterative process a large number of times, selecting the vertex at random on each iteration, and throwing out the first few points in the sequence, will often (but not always) produce a fractal shape. Using a regular triangle and the factor 1/2 will result in the Sierpinski triangle, while creating the proper arrangement with four points and a factor 1/2 will create a display of a "Sierpinski Tetrahedron", the three-dimensional analogue of the Sierpinski triangle. 
+
+![fivePointsColor.png](fivePointsColor.png)
+
+What I like about the Chaos Game is that it can work as an allegory for continuity of character.  The world has tilted to become more random.  but if I my actions have some sort of continuity and consistency, a stable pattern will emerge.  Here are a few stills from processing3 and p5js exploring the Chaos game with varying  the number of vertex points and percentage of point between the target point and vertex point. I have also constrained it not to pick the same vertex point twice in a row for some photos.  In the pics top number is number of  vertex points and bottom number is percentage.
+
+[Explore it here](https://editor.p5js.org/greggelong/present/D3doyDvYm)
