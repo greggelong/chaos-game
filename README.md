@@ -36,7 +36,7 @@ More Chaos Game. Four vertex points moving with Perlin noise.
 
 ![difPercVertex.png](difPercVertex.png)
 
-A simple Chaos Game with each vertex having a differnt percetage to tagert point.
+A simple Chaos Game with each vertex having a differnt percetage to target point.
 
 [see it here](https://editor.p5js.org/greggelong/present/6fA1bIvrG)
 
