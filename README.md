@@ -49,3 +49,8 @@ A simple Chaos Game with each vertex having a different percetage to target poin
 
 [home](https://greggelong.github.io)
 
+
+----
+
+added a python script for a simple 3 vertex chaos game caculating lerp without lerp function, just math ;)
+
