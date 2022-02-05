@@ -53,6 +53,10 @@ here is a nice discussion of finding a point on a line
 
 https://math.stackexchange.com/questions/563566/how-do-i-find-the-middle1-2-1-3-1-4-etc-of-a-line
 
+another discussion of making a lerp function in C# 
+
+https://stackoverflow.com/questions/33044848/c-sharp-lerping-from-position-to-position
+
 ------
 
 [home](https://greggelong.github.io)
