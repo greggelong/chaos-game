@@ -49,6 +49,10 @@ A simple Chaos Game with each vertex having a different percetage to target poin
 
 added a python script for a simple 3 vertex chaos game caculating lerp without lerp function, just math ;)
 
+here is a nice discussion of finding a point on a line
+
+https://math.stackexchange.com/questions/563566/how-do-i-find-the-middle1-2-1-3-1-4-etc-of-a-line
+
 ------
 
 [home](https://greggelong.github.io)
