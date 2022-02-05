@@ -57,6 +57,14 @@ another discussion of making a lerp function in C#
 
 https://stackoverflow.com/questions/33044848/c-sharp-lerping-from-position-to-position
 
+Great explanation of lerp function in javaScript 
+
+https://youtu.be/mAi2-LTC2CA
+
+----------------
+
+Also see 3d chaos game  in processing 
+
 ------
 
 [home](https://greggelong.github.io)
