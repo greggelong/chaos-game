@@ -43,9 +43,11 @@ More Chaos Game. Four vertex points moving with Perlin noise.
 
 [see four points with noise here](https://editor.p5js.org/greggelong/present/gDSMSZOaV)
 
+[click here!](https://greggelong.github.io/chaos-game/chaosNoise4points/)
+
 [see three points with noise here](https://editor.p5js.org/greggelong/present/0sEPp5tcI)
 
-
+[click Here!](https://greggelong.github.io/chaos-game/chaosNoise3points/)
 ------------
 
 ![difPercVertex.png](difPercVertex.png)
@@ -53,6 +55,8 @@ More Chaos Game. Four vertex points moving with Perlin noise.
 A simple Chaos Game with each vertex having a different percetage to target point.
 
 [see it here](https://editor.p5js.org/greggelong/present/6fA1bIvrG)
+
+[click Here!](https://greggelong.github.io/chaos-game/chaosGameDiffVertexPercent/)
 
 -------------
 
