@@ -26,7 +26,7 @@ What I like about the Chaos Game is that it can work as an allegory for continui
 
 [Explore constrained game here](https://editor.p5js.org/greggelong/present/D3doyDvYm)
 
-[click Here!](https://greggelong.github.io/chaos-game/chaosGameDiffVertexPercent/)
+[click Here!](https://greggelong.github.io/chaos-game/chaosGameTapColor/)
 
 
 [Explore unconstrained game here](https://editor.p5js.org/greggelong/present/j2NaScSM2)
